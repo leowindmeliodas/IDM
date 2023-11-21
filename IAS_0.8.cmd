@@ -188,7 +188,7 @@ echo:           ▐░░◌░▄▀██▄█░░░▌        IDM Activat
 echo:           ▐░░░▀████▀▄░░░▌       ◇────────────────────◇
 echo:           ═▀▄▄▄▄▄▄▄▄▄▄▄▀═
 echo:
-call :_color2 %_White% "        " %_Green% "  Create By LeoWind"           
+call :_color2 %_White% "        " %_Green% "  Create By Leo Wind Meliodas"           
 echo:          _____________________________________________  
 echo:          
 echo:          [1] Activate IDM                                
@@ -379,7 +379,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/lstprjct/IDM-Activation-Script
+start https://github.com/leowindmeliodas/IDM-Active
 goto MainMenu
 
 ::========================================================================================================================================
@@ -879,7 +879,7 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+   Homepage:	https://github.com/leowindmeliodas/IDM-Active
    
    Telegram:	https://t.me/LeoWindMeliodas
 
