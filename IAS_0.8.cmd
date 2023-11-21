@@ -379,7 +379,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/leowindmeliodas/IDM-Active
+start https://github.com/leowindmeliodas/IDM-Active-Python
 goto MainMenu
 
 ::========================================================================================================================================
@@ -879,7 +879,7 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/leowindmeliodas/IDM-Active
+   Homepage:	https://github.com/leowindmeliodas/IDM-Active-Python
    
    Telegram:	https://t.me/LeoWindMeliodas
 
